@@ -32,10 +32,10 @@ class HomePageDark extends StatelessWidget {
                             height: 60,
                           ),
                           CircleAvatar(
+                            radius: 25,
                             child: Image.asset(
                               "lib/assets/chair_white_blue-removebg-preview.png",
                             ),
-                            radius: 25,
                           ),
                         ],
                       ),

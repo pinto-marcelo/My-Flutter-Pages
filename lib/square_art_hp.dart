@@ -44,8 +44,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                               ),
                             ),
                             child: Padding(
-                              padding: const EdgeInsetsDirectional.fromSTEB(
-                                  20, 20, 20, 20),
+                              padding: const EdgeInsets.all(20),
                               child: Container(
                                 decoration: const BoxDecoration(
                                   boxShadow: [
@@ -89,12 +88,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontWeight: FontWeight.bold),
                                       ),
                                       const Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
-                                      ),
-                                      const Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(10, 0, 10, 0),
+                                        padding: EdgeInsets.all(8),
                                         child: Text(
                                           "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
                                           textAlign: TextAlign.center,
@@ -102,10 +96,6 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontSize: 12,
                                           ),
                                         ),
-                                      ),
-                                      const Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
                                       ),
                                       Container(
                                         decoration: const BoxDecoration(
@@ -142,8 +132,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                               ),
                             ),
                             child: Padding(
-                              padding: const EdgeInsetsDirectional.fromSTEB(
-                                  20, 20, 20, 20),
+                              padding: const EdgeInsets.all(20),
                               child: Container(
                                 decoration: const BoxDecoration(
                                   boxShadow: [
@@ -169,12 +158,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontWeight: FontWeight.bold),
                                       ),
                                       Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(10, 0, 10, 0),
+                                        padding: EdgeInsets.all(8),
                                         child: Text(
                                           "hendrerit non dictum a, ultricies sollicitudin arcu. Fusce accumsan metus id ullamcorper congue.",
                                           textAlign: TextAlign.center,
@@ -182,10 +166,6 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontSize: 12,
                                           ),
                                         ),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
                                       ),
                                     ],
                                   ),
@@ -206,8 +186,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                               ),
                             ),
                             child: Padding(
-                              padding: const EdgeInsetsDirectional.fromSTEB(
-                                  20, 20, 20, 20),
+                              padding: const EdgeInsets.all(20),
                               child: Container(
                                 decoration: const BoxDecoration(
                                   boxShadow: [
@@ -233,12 +212,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontWeight: FontWeight.bold),
                                       ),
                                       Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(10, 0, 10, 0),
+                                        padding: EdgeInsets.all(8),
                                         child: Text(
                                           "dui nec enim rutrum, ut posuere leo consequat. In aliquam velit ornare lectus lacinia mattis. ",
                                           textAlign: TextAlign.center,
@@ -246,10 +220,6 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontSize: 12,
                                           ),
                                         ),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
                                       ),
                                     ],
                                   ),
@@ -270,8 +240,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                               ),
                             ),
                             child: Padding(
-                              padding: const EdgeInsetsDirectional.fromSTEB(
-                                  20, 20, 20, 20),
+                              padding: const EdgeInsets.all(20),
                               child: Container(
                                 decoration: const BoxDecoration(
                                   boxShadow: [
@@ -297,12 +266,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontWeight: FontWeight.bold),
                                       ),
                                       Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(10, 0, 10, 0),
+                                        padding: EdgeInsets.all(8),
                                         child: Text(
                                           "In aliquam velit ornare lectus lacinia mattis. Duis fringilla nulla ante.",
                                           textAlign: TextAlign.center,
@@ -310,10 +274,6 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontSize: 12,
                                           ),
                                         ),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
                                       ),
                                     ],
                                   ),
@@ -334,8 +294,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                               ),
                             ),
                             child: Padding(
-                              padding: const EdgeInsetsDirectional.fromSTEB(
-                                  20, 20, 20, 20),
+                              padding: const EdgeInsets.all(20),
                               child: Container(
                                 decoration: const BoxDecoration(
                                   boxShadow: [
@@ -361,12 +320,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontWeight: FontWeight.bold),
                                       ),
                                       Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(10, 0, 10, 0),
+                                        padding: EdgeInsets.all(8),
                                         child: Text(
                                           "augue nec tempus placerat, lectus nulla maximus mi, non congue arcu enim vel lacus.",
                                           textAlign: TextAlign.center,
@@ -374,10 +328,6 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontSize: 12,
                                           ),
                                         ),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
                                       ),
                                     ],
                                   ),
@@ -417,8 +367,6 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                   ),
                                   color: Colors.white,
                                   child: Column(
-                                    mainAxisAlignment:
-                                        MainAxisAlignment.spaceBetween,
                                     children: const [
                                       Text(
                                         " Pellentesque feugiat",
@@ -426,12 +374,7 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontWeight: FontWeight.bold),
                                       ),
                                       Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(10, 0, 10, 0),
+                                        padding: EdgeInsets.all(8),
                                         child: Text(
                                           '- odio quam vel condimentum \n- velit venenatis volutpat Mauris dictum nunc ac arcu\n- Vivamus urna eros, iaculis eu pretium vel\n- ornare egestas',
                                           textAlign: TextAlign.center,
@@ -439,10 +382,6 @@ class _SquareArtHPState extends State<SquareArtHP> {
                                             fontSize: 12,
                                           ),
                                         ),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.fromLTRB(0, 2, 0, 2),
                                       ),
                                     ],
                                   ),
